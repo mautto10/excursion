@@ -1,6 +1,33 @@
 body {
 font-family: verdana;
 text-align: center;
-color: white;
-font-weight: bold;
+background-color: black
   }
+
+.header {
+  font-size: 50px;
+  text-align: center;
+  }
+
+  .download {
+    font-size: 16px;
+    text-align: center;
+    color: aquamarine;
+    }
+
+  h1  {
+    font-size: 42px;
+    text-align: center;
+    font-weight: 300;
+    color: white;
+    }
+
+  p {
+color: gray;
+font-size: 21px;
+    }
+
+.watermark {
+  text-align: right;
+  color: gray;
+}
